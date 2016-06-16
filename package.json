@@ -1,0 +1,26 @@
+{
+  "name": "verp_plugin",
+  "version": "1.0.0",
+  "description": "Haraka Plugin for VERP",
+  "main": "verp_plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcarlosmr/verp_plugin.git"
+  },
+  "keywords": [
+    "haraka",
+    "plugin",
+    "verp"
+  ],
+  "author": "Juan Carlos Mendoza R.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcarlosmr/verp_plugin/issues"
+  },
+  "homepage": "https://github.com/jcarlosmr/verp_plugin",
+  "dependencies": {
+  }
+}
